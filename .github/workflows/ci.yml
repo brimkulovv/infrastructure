@@ -28,3 +28,10 @@ jobs:
 
       - name: Check README
         run: test -f README.md
+
+      - name: Check required files
+        run: |
+          test -f README.md
+          test -f docker/Dockerfile
+          test -f terraform/main.tf
+          test -f kubernetes/deployment.yaml
