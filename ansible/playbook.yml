@@ -1,1 +1,10 @@
-# Ansible playbook
+---
+- name: Configure local DevOps environment
+  hosts: localhost
+  connection: local
+  gather_facts: false
+
+  tasks:
+    - name: Display deployment message
+      ansible.builtin.debug:
+        msg: "Ansible playbook is working"
