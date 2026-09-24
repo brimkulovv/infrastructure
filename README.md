@@ -34,3 +34,5 @@ Prometheus configuration for metrics collection.
 
 ### CI/CD
 GitHub Actions workflow for automated validation.
+
+Project status: under development.
