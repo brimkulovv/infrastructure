@@ -35,7 +35,7 @@ Prometheus configuration for metrics collection.
 ### CI/CD
 GitHub Actions workflow for automated validation.
 
-Project status: used for DevOps learning.
+Project status: ready for deployment and DevOps learning.
 
 ## Development Workflow
 
