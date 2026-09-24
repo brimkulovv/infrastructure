@@ -14,3 +14,23 @@
 ## Project status
 
 The project is under development.
+
+## Infrastructure Components
+
+### Terraform
+Infrastructure configuration and variables.
+
+### Ansible
+Configuration automation playbook.
+
+### Kubernetes
+Deployment and Service manifests.
+
+### Docker
+Container image for the Python application.
+
+### Monitoring
+Prometheus configuration for metrics collection.
+
+### CI/CD
+GitHub Actions workflow for automated validation.
