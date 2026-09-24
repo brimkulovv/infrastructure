@@ -36,3 +36,7 @@ Prometheus configuration for metrics collection.
 GitHub Actions workflow for automated validation.
 
 Project status: under development.
+
+## Development Workflow
+
+Development is organized using feature branches and Pull Requests.
